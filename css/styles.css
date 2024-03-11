@@ -68,6 +68,17 @@ width: 1158px;}
     display: flex;
 }
 
+.menu-heder-lu .menu-heder{
+transition: color 250ms;
+cubic-bezier: 0.4, 0, 0.2, 1 ;
+}
+
+.address-li .address-use{
+    transition: color 250ms;
+    cubic-bezier: 0.4, 0, 0.2, 1;}
+
+
+
 .webstudio {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -102,11 +113,23 @@ width: 1158px;}
 .menu-heder:focus {
     color: #404bbf;
 }
-.menu-heder span{
+.menu-heder-lu li:first-child a{
 position: relative;
 color: #404bbf;}
 
+.menu-heder-lu li:first-child a::after{
+width: 100%;
+left: 0;
+height: 4px;
+content: "";
+display: flex;
+position: absolute;
+bottom: -1px;
+border-radius: 2px;
+background-color: #404bbf;
 
+
+}
 
 
 .menu-heder {
