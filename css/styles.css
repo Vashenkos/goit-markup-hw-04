@@ -68,14 +68,13 @@ width: 1158px;}
     display: flex;
 }
 
-.menu-heder-lu .menu-heder{
-transition: color 250ms;
-cubic-bezier: 0.4, 0, 0.2, 1 ;
-}
 
-.address-li .address-use{
-    transition: color 250ms;
-    cubic-bezier: 0.4, 0, 0.2, 1;}
+.menu-heder-lu .menu-heder {transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1)}
+.address-ul .address-li .address-use {
+        transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1)
+    }
+
+
 
 
 
