@@ -216,9 +216,9 @@ background-color: #404bbf;
 
 .main-section {
 background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-url(../goit-markup-hw-04/images/imagessvg/people-office\ 1-min\ \(1\).jpg);
+url(../images/imagessvg/people-office.jpg);
 або background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-url(../goit-markup-hw-04/images/imagessvg/people-office\ 1-min\ \(1\).jpg);
+url(../images/imagessvg/people-office.jpg);
 max-width: 1440px;
 background-repeat: no-repeat;
 background-position: center;
