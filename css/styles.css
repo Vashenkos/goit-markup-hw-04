@@ -288,6 +288,34 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     background-color: #404BBF;
 }
 
+
+.container:nth-of-type(3){
+background-image: url(../images/imagessvg/icons.svg);
+background-repeat:no-repeat ; 
+display: flex;
+justify-content: center;
+align-items: center;
+height: 112px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .section-two {
     padding: 120px 0;
 }
@@ -492,9 +520,9 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 
-.container:nth-of-type(1){
+.container:nth-of-type(4){
     display: flex;
-    align-items: baseline,
+    align-items: baseline;
 }
 
 
