@@ -480,6 +480,11 @@ background-image: url(/goit-markup-hw-04/images/icons.svg);
 position: relative;
 overflow: hidden;
 }
+
+.bcm .amm:hover{transform: translateY(0%);}
+
+
+
 .pstylish{
     position: absolute;
     top: 0;
