@@ -627,8 +627,15 @@ overflow: hidden;
     align-items: baseline;
 }
 
+.foot .container{
+    display: flex;
+    align-items: baseline;
 
-
+}
+.logoip{
+    margin-right: 120px;
+    
+}
 
 
 .address-li 
