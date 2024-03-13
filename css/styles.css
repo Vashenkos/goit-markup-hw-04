@@ -643,11 +643,15 @@ overflow: hidden;
     letter-spacing: 0.02em;
     color: #ffffff;
     margin-bottom: 16px;
+
+}
+.lifoot{
+    display: flex;
+    gap: 16px;
     
 }
 
 
-.address-li 
 {
     
 }
