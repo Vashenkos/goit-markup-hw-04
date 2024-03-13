@@ -395,7 +395,7 @@ background-image: url(/goit-markup-hw-04/images/icons.svg);
     gap: 24px;
 }
 
-.socmer {
+.threeli {
     width: 100%;
     background-color: #4d5ae5;
     border-radius: 50%;
@@ -403,11 +403,11 @@ background-image: url(/goit-markup-hw-04/images/icons.svg);
     align-items: center;
     justify-content: center;
 }
-.socmer:hover{
-    background-color: #404bbf;
+.threeli:hover{
+    background-color: #31D0AA;
 }
-.socmer:focus {
-    background-color: #404bbf;
+.threeli:focus {
+    background-color: #31D0AA;
 }
 
 
