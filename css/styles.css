@@ -389,8 +389,33 @@ background-image: url(/goit-markup-hw-04/images/icons.svg);
 }
 
 
+.three-ul{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.socmer {
+    width: 100%;
+    background-color: #4d5ae5;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.socmer:hover{
+    background-color: #404bbf;
+}
+.socmer:focus {
+    background-color: #404bbf;
+}
 
 
+
+.threeli{
+width: 40px;
+height: 40px;
+}
 
 
 
