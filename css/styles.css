@@ -668,11 +668,12 @@ overflow: hidden;
 .foot .container{
     display: flex;
     align-items: baseline;
+    
 
 }
 
 
-.pfootp p{
+.media-p {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -682,7 +683,11 @@ overflow: hidden;
 
 }
 
-.three-ul-fot{ 
+.footer-onli{
+    margin-right: 120px;
+}
+
+.foot-ul-fot{ 
     display: flex;
     gap: 16px;
 }
