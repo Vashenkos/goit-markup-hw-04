@@ -667,7 +667,6 @@ overflow: hidden;
 
 .foot .container{
     display: flex;
-    margin-right: 120px;
     align-items: baseline;
 
 }
