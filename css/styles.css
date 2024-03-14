@@ -412,6 +412,28 @@ background-image: url(/goit-markup-hw-04/images/icons.svg);
 
 
 
+
+
+.logoip{
+    margin-right: 120px
+}
+
+
+
+.lifoot.pfootp {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    list-style: 0.02em;
+    color: #ffffff;
+    margin-bottom: 16px;
+}
+
+
+
+
+
+
 .threeli{
 width: 40px;
 height: 40px;
@@ -648,10 +670,5 @@ overflow: hidden;
 .lifoot{
     display: flex;
     gap: 16px;
-    
-}
 
-
-{
-    
 }
