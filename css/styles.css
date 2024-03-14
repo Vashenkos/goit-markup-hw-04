@@ -665,13 +665,13 @@ overflow: hidden;
     align-items: baseline;
 }
 
-.foot .container .footer-onli{
+.foot .container{
     
     margin-right: 120px;
 
 }
 
-}
+
 .pfootp{
     font-weight: 500;
     font-size: 16px;
@@ -700,10 +700,19 @@ border-radius: 50%;
 display: flex;
 align-items: center;
 justify-content: center;
+fill: #FFFFFF;
 }
-.three-ul-fot .lifoot .socmer:hover {
+.socmer:hover {
 background-color: #31d0aa;
 }
-.three-ul-fot .lifoot .socmer:focus{
+.socmer:focus{
     background-color: #31d0aa;
 }
+
+
+
+
+
+
+
+
