@@ -532,7 +532,7 @@ height: 40px;
 }
 
 
-.our-li:hover{
+.our-li:hover p{
     transform: translateY(0%);
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);}
 .our-li{transform: translateY(0%);
@@ -546,7 +546,7 @@ overflow: hidden;
 
 
 
-.pstylish p {
+.fourimg p {
     position: absolute;
     top: 0;
     font-size: 16px;
