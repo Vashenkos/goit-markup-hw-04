@@ -367,10 +367,14 @@ background-image: url(/goit-markup-hw-04/images/icons.svg);
     margin-bottom: 8px;
 }
 
+
+
+/*----> section-three 3 <-----*/ 
+
+
 .section-three {
-    background-color: #F4F4FD;
-    padding: 120px 0;
-}
+background-color: #F4F4FD;
+padding: 120px 0;}
 
 .work {
     padding: 32px 0;
@@ -397,16 +401,17 @@ background-image: url(/goit-markup-hw-04/images/icons.svg);
 
 .threeli .socmer {
     width: 100%;
+    height: 100%;
     background-color: #4d5ae5;
     border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.threeli:hover{
+.socmer:hover{
     background-color: #404bbf;
 }
-.threeli:focus {
+.socmer:focus {
     background-color: #404bbf;
 }
 
