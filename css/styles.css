@@ -701,3 +701,9 @@ display: flex;
 align-items: center;
 justify-content: center;
 }
+.three-ul-fot .lifoot .socmer:hover {
+background-color: #31d0aa;
+}
+.three-ul-fot .lifoot .socmer:focus{
+    background-color: #31d0aa;
+}
