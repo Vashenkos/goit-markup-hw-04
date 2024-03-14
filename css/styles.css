@@ -665,9 +665,10 @@ overflow: hidden;
     align-items: baseline;
 }
 
-.foot .container .footer-onli{
-    
+.foot .container{
+    display: flex;
     margin-right: 120px;
+    align-items: baseline;
 
 }
 
