@@ -700,7 +700,7 @@ border-radius: 50%;
 display: flex;
 align-items: center;
 justify-content: center;
-fill: ;
+fill: #f4f4fd;
 }
 .lifoot .socmer:hover {
 background-color: #31d0aa;
