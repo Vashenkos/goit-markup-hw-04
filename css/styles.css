@@ -665,9 +665,10 @@ overflow: hidden;
     align-items: baseline;
 }
 
-.foot .container{
+.foot .container .footer-onli{
     display: flex;
     align-items: baseline;
+    margin-right: 120px;
 
 }
 .logoip .footer-p {
