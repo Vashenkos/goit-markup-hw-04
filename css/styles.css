@@ -602,7 +602,7 @@ overflow: hidden;
 
 .section-5-ul {}
 
-.section-5-li {}
+/*------..section-5-li <--------*/
 
 .foot {
     background: #2e2f42;
@@ -666,13 +666,10 @@ overflow: hidden;
 }
 
 .foot .container .footer-onli{
-    display: flex;
-    align-items: baseline;
+    
     margin-right: 120px;
 
 }
-.logoip .footer-p {
-    margin-right: 120px;
 
 }
 .pfootp{
