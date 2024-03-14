@@ -407,6 +407,7 @@ padding: 120px 0;}
     display: flex;
     align-items: center;
     justify-content: center;
+    fill: #f4f4fd;
 }
 .socmer:hover{
     background-color: #404bbf;
@@ -672,7 +673,7 @@ overflow: hidden;
     margin-bottom: 16px;
 
 }
-.lifoot{
+.lifoot .socmer{
     display: flex;
     gap: 16px;
 
