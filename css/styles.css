@@ -665,7 +665,7 @@ overflow: hidden;
     align-items: baseline;
 }
 
-.foot .container{
+.foot .container .footer-onli{
     
     margin-right: 120px;
 
@@ -700,12 +700,12 @@ border-radius: 50%;
 display: flex;
 align-items: center;
 justify-content: center;
-fill: #FFFFFF;
+fill: ;
 }
-.socmer:hover {
+.lifoot .socmer:hover {
 background-color: #31d0aa;
 }
-.socmer:focus{
+.lifoot .socmer:focus{
     background-color: #31d0aa;
 }
 
