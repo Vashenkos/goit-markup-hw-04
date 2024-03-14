@@ -569,7 +569,9 @@ overflow: hidden;
 .pstylish:hover {
     transform: translateY(0%);
 }
-
+.our-li:hover .pstylish {
+    transform: translateY(0%);
+}
 
 
 .our {
