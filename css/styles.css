@@ -542,7 +542,7 @@ position: relative;
 overflow: hidden;
 }
 
-
+.fourimg{ transform: translateY(0%);}
 
 
 
@@ -566,7 +566,7 @@ overflow: hidden;
     opacity: 1;}
 
 
-.pstylish p{transform: translateY(0%);}
+
 
 .our {
     margin-bottom: 72px;
